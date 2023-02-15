@@ -166,11 +166,11 @@ Media Device
         width: 100%;
     }
 
-    .players {
+    .players,
+    .blogs {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .blogs,
     .courses {
         grid-template-columns: repeat(1, 1fr);
     }
